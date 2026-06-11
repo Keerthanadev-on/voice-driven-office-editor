@@ -167,4 +167,5 @@ B.Tech CSE · Andhra University College of Engineering for Women
 
 ## 📄 License
 
-MIT License — free to use and modify.
+© 2026 Keerthana Gulivindala. All rights reserved.
+This project is not open source. No part of this codebase may be copied, modified, or distributed without explicit written permission from the author.
